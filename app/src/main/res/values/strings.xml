@@ -1,3 +1,11 @@
 <resources>
     <string name="app_name">AllSkillinAndroid</string>
+    <string name="remote_service_unattached">remote_service_unattached</string>
+    <string name="remote_service_connected">remote_service_connected</string>
+    <string name="remote_service_disconnected">remote_service_disconnected</string>
+    <string name="binding">binding</string>
+    <string name="unbinding">unbinding</string>
+    <string name="kill_success">成功杀死远程服务</string>
+    <string name="kill_failure">杀死远程服务失败</string>
+
 </resources>
